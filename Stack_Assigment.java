@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Stack;
 import java.util.Arrays;
 import java.util.EmptyStackException;
@@ -108,4 +107,5 @@ class stack<T> {
             System.out.println();
         }
     }
+
 }
